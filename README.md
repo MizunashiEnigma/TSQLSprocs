@@ -1,3 +1,4 @@
 # TSQLSprocs
 STORED PROCEDURE NAME TO QUERYNAME
-IPOCustomer.sql  =  CheckCustomerCreditWhenPlacingOrder
+IPOCustomer.sql  =  CheckCustomerCreditWhenPlacingOrder - Done.
+
